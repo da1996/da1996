@@ -1,0 +1,9 @@
+Origin: Dan's Repo
+Label: Dan's Repo
+Suite: stable
+Version: 1.0
+Codename: dan96
+Architectures: iphones-arm
+Components: main
+Description: dan96 Repo
+MD5Sum:
