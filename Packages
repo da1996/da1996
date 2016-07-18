@@ -13,17 +13,17 @@ Filename: debs//test.deb
 MD5sum: 9b5cf022dbbb32f71524634bec75e038
 SHA1: 86cb05b7be6ac8d0dfd91b3edf3947acae0b38d7
 SHA256: 2799b2606e631b6c7f59cd5387d40a61a91b241ee6ca6d31186e9242f076b5af
-
 Name: Schermata
 Architecture: iphoneos-arm
 Package: com.schermata.prova
 Version: 1.0
+Filename: debs//Schermata.deb
 Website: null
 Icon: null
 Maintainer: dan96
 Description: save a png file to /var/mobile/proviamo
 Section: Test
-MD5sum: aafc4f6bd020ecc40334dd999acf0f18
-SHA1: 2956701d1d590dba2bd6ad6a9f360466b02d6a7b
-SHA256: bcf3e3a664e2e9166a3b395d89372c3e6abfe7bbb7b4a47b20f17a703c6c88a7
-Size: 315082
+MD5sum: 1a78dd2b994e9a477f8ba520e4561224
+SHA1: 5301416148bbaefa5fb183d164a83475a548a043
+SHA256: 187629c80f57503317ea0b08be0c05a0294ce6c9df47fe9fc3faa2a49abbcd4e
+Size: 315100
