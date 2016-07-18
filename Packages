@@ -1,0 +1,14 @@
+Name: Testiamo
+Architecture: iphoneos-arm
+Package: com.testiamo.testiamo
+Version: 1.0
+Filename: debs//Prova.deb
+Website: null
+Icon: null
+Maintainer: dan96
+Description: testiamo un deb
+Section: Test
+MD5sum: 96e202cbd53bba6153c57fd127c4aa97
+SHA1: 483148af22774ede110925c37218adb0ffb01930
+SHA256: a18c616e7163522f2e3086ac5f786dfac78404f0ac443c9fe2cc7187e5f4f57c
+Size: 315144
