@@ -1,16 +1,3 @@
-#!/bin/bash
-clear
-echo "Questo script si occupera di: generare il file deb e aggiungerlo all'indice dei pacchetti"
-echo "Inserisci il percorso della cartella che contiene i file del deb"
-read path
-cd "$path"
-mkdir DEBIAN
-touch DEBIAN/control
-echo "Inserisci i seguenti campi necessari per creare il file deb"
-echo "Name:"
-read name
-echo "Architecture:"
-read architecture
 echo "Package:"
 read package
 echo "Version:"
