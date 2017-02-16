@@ -1,0 +1,15 @@
+
+Name: Zedge Webapp
+Architecture: iphoneos-arm
+Package: com.da1996.zedgewebapp
+Version: 1.0
+Filename: debs//zedgeapp.deb
+Website: 
+Icon: 
+Maintainer: da1996
+Description: Zedge Webapp
+Section: Apps
+MD5sum: 4f2ff054fa8b8e14036ad3251108f074
+SHA1: e91aaf19f07a291717d73647d0824cccb7b131a8
+SHA256: 0ccc8c24bd3d407fb9ac865e481cbc700180bbd945ff81a3ac1d5cc45a6f1115
+Size: 6541940
