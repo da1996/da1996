@@ -75,3 +75,18 @@ SHA1: 720e8f986df9a615644807e443b132b4c5f47997
 SHA256: c7101265d12b2fa0c288a512a1f292133e0d0c8b9822edb4d5f8f393e476be7d
 Size: 8895494
 
+
+Name: Deluge Remote
+Architecture: iphoneos-arm
+Package: com.da1996.delugeremote
+Version: 1.4
+Filename: debs//delugeapp14.deb
+Website: 
+Icon: 
+Maintainer: da1996
+Description: Client for Deluge ( ssh required )
+Section: Apps
+MD5sum: e5086a55f4545a6eb881ca7fb376b077
+SHA1: 1bdbd70819373c772c6f7c1d96c78ec386cb9e87
+SHA256: fd843895262d7a1e0bb5c740e798e5fd0f2f987b95be1b6fe3a469ee2ddf8ab9
+Size: 10338214
