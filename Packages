@@ -1,0 +1,15 @@
+
+Name: Pangu-to-Taig
+Architecture: iphoneos-arm
+Package: com.da1996.ptt
+Version: 1.0
+Filename: debs//ppt.deb
+Website: 
+Icon: 
+Maintainer: da1996
+Description: Pangu to Taig 8.4
+Section: System
+MD5sum: 23ac0ac7002298a5768379532d897e0f
+SHA1: 6904ea530b029ce9e95c917d8f20422071bda80c
+SHA256: 73c7d7300963b127dd73e653a70410ecfebca187a0ccd0cb2e24fd99d1a50dd0
+Size: 97284
