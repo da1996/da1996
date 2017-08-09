@@ -92,6 +92,7 @@ Architecture: $architecture
 Package: $package
 Version: $version
 Filename: debs//$nome.deb
+Conflicts: com.pphelper.untether8x
 Website: $website
 Icon: $icon
 Maintainer: $maintainer

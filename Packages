@@ -13,3 +13,19 @@ MD5sum: 23ac0ac7002298a5768379532d897e0f
 SHA1: 6904ea530b029ce9e95c917d8f20422071bda80c
 SHA256: 73c7d7300963b127dd73e653a70410ecfebca187a0ccd0cb2e24fd99d1a50dd0
 Size: 97284
+
+Name: Pangu-To-Taig-8.3
+Architecture: iphoneos-arm
+Package: com.da1996.ptt
+Version: 1.0.1
+Filename: debs//ptt.deb
+Conflicts: com.pphelper.untether8x
+Website: 
+Icon: 
+Maintainer: da1996
+Description: Pangu to taig
+Section: System
+MD5sum: aec8d37a8e3e33c9576109846f044cb9
+SHA1: 9ebd769e943db992f89fbb379bfc4c46c9a8c91e
+SHA256: b26e7fbd784748b78e68752947bcc44265cdf1e28e6100158494e9726c5be554
+Size: 97684
