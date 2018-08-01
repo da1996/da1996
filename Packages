@@ -15,18 +15,17 @@ SHA256: 47d3aad1da1f592b5e0fc47e4d64cac60017755f4f24f2badd5183bfaf2edb88
 Size: 97642
 
 
-
 Name: Deluge Client
 Architecture: iphoneos-arm
-Package: com.da1996.DelugeClient
-Version: 1.0
+Package: com.da1996.delugeclient
+Version: 1.1
 Filename: debs//delugeclient.deb
 Website: 
 Icon: 
 Maintainer: da1996
 Description: Deluge Client
 Section: Apps
-MD5sum: b5b805521802c4fe44cb5f21e88c50b8
-SHA1: d87ed79a0608f7c6a35d6144fa52dd342ebbf682
-SHA256: fb95772c4abc6d8e17db7ce3b545877a443e4c6ed2f9b0dd493c523c2a6e6a39
-Size: 14258928
+MD5sum: b548b2f9b462537466cd9d1fa4df4757
+SHA1: e8159e67570f4bb29ff3a77b3b65723b510410a7
+SHA256: a0760014849efbf813c1ccdf4053acb566bb31f7798ccbb67646d40b101ddcd0
+Size: 14256588
