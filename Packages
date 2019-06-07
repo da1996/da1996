@@ -29,3 +29,18 @@ MD5sum: b548b2f9b462537466cd9d1fa4df4757
 SHA1: e8159e67570f4bb29ff3a77b3b65723b510410a7
 SHA256: a0760014849efbf813c1ccdf4053acb566bb31f7798ccbb67646d40b101ddcd0
 Size: 14256588
+
+Name: iOS Installer
+Architecture: iphoneos-arm
+Package: com.da1996.iosinstaller
+Version: 1.0
+Filename: debs//iOS Installer.deb
+Website: 
+Icon: 
+Maintainer: da1996
+Description: iOS Installer from /var/mobile/root.dmg
+Section: System
+MD5sum: 7a5c1d2c86c6815c20937a1952439818
+SHA1: 9aa0091b59b5c7fc065443787f3426fa1e5cec9b
+SHA256: addaae063576aba7a597182513dc15fd0d41a3fc4c6eb5b803f6d3f24ae87ce3
+Size: 102234
